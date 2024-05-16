@@ -1,0 +1,9 @@
+torch
+streamlit
+pandas
+nltk
+sumy
+rouge
+transformers
+youtube-transcript-api
+matplotlib
